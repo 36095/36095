@@ -16,16 +16,17 @@ Welcome to my GitHub repository. Here you will mostly find projects that I have 
 </picture>
 </a>
 <a href="https://github.com/36095">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=36095&layout=compact&theme=dark&langs_count=8" />
-</a>
-
-***
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=36095&layout=compact&langs_count=8&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=36095&layout=compact&langs_count=8&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=36095&layout=compact&langs_count=8" />
+</picture>
 </a>
 
 
