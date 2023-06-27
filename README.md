@@ -9,4 +9,4 @@ Welcome to my GitHub repository. Here you will mostly find projects that I have 
 
 ## About Me
 
-I'm a Junior Web Developer. I primarily develop with JavaScript, React, and Vue.js. 
+I'm a Junior Web Developer. I primarily develop with web technologies, such as **Javascript**, **React**, **Node**, etc. 
