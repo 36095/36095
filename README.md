@@ -35,4 +35,4 @@ Welcome to my GitHub repository. Here you will mostly find projects that I have 
 
 I'm a Junior Web Developer. I primarily develop with web technologies, such as **Javascript**, **React**, **Node**, etc.
 
-<!-- If  you're reading this, you probably are the best person in the world :) -->
+<!-- If  you're reading this, you probably are the best person in the world :) ❤️ -->
