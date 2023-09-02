@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD033 -->
+
 # 36095
 
 Welcome to my GitHub repository. Here you will mostly find projects that I have worked on for my YouTube channel tutorials, or livestreams. Most of my recent projects are private.
@@ -33,4 +34,5 @@ Welcome to my GitHub repository. Here you will mostly find projects that I have 
 ## About Me
 
 I'm a Junior Web Developer. I primarily develop with web technologies, such as **Javascript**, **React**, **Node**, etc.
-:)
+
+<!-- If  you're reading this, you probably are the best person in the world :) -->
