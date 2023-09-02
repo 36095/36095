@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 # 36095
 
 Welcome to my GitHub repository. Here you will mostly find projects that I have worked on for my YouTube channel tutorials, or livestreams. Most of my recent projects are private.
