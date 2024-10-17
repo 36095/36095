@@ -2,7 +2,7 @@
 
 # 36095
 
-Welcome to my GitHub repository. Here you will mostly find projects that I have worked on for my YouTube channel tutorials, or livestreams. Most of my recent projects are private.
+Welcome to my GitHub repository. Here you will mostly find projects that I have worked on the last months. Most of my recent projects are private.
 
 <a href="https://github.com/36095">
   <picture>
