@@ -33,6 +33,6 @@ Welcome to my GitHub repository. Here you will mostly find projects that I have 
 
 ## About Me
 
-I'm a Junior Web Developer. I primarily develop with web technologies, such as **Javascript**, **React**, **Node**, etc.
+I'm a Junior Web Developer. I primarily develop with web technologies, such as **HTML**, **CSS**, **Javascript**, **Astro**, **Node**, etc.
 
 <!-- If  you're reading this, you probably are the best person in the world :) ❤️ -->
